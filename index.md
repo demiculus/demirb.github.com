@@ -14,6 +14,7 @@ We are 3 brothers aged [22](https://about.me/thellimist), [24](https://about.me/
 - [Unexpected Benefit Of Hacker House](unexpectedbenefitofhackerhouse)
 - [Process Explanation Trumps Execution](processexplanationtrumpsexecution)
 
+<a id="accommodation"> </a>
 ### Accomodation
 
 
@@ -23,7 +24,7 @@ During our first few weeks here we visited a lot of places and saw that natives 
 
 Anyway back to the subject, there are a few ways to stay in San Francisco for cheap (it is cheap in respect to other ways of living)
 
-1. Hackerhouses: Downtown is usually around $1000-1200per month per person, a little out of the city you can find places for a little less. We are staying at saddlehousesf for $800 per person per month. 
+1. Hackerhouses: Downtown is usually around $1000-1200per month per person, a little out of the city you can find places for a little less. We are staying at [saddlehousesf](saddlehousesf.com) for $800 per person per month. 
 
 2. Build your own hackerhouse: There are studios in tenderloin for under 2k and with water/wifi etc included it could go up to 2.3k a month. Put up 2 bunk beds(4 people) and voila, that’s $600 per pers per month. You can decrease the cost more if you are able to find more people and get a bigger house etc..
 
@@ -43,10 +44,10 @@ Anyway back to the subject, there are a few ways to stay in San Francisco for ch
 
 Btw usually places are leased for 12 months and if it is 6 or 3 months the price goes up almost 2x.
 So all in all accommodation here sucks, but you get to meet a lot of people & see different cultures while trying to find the right place.
-Remember that I said everyone here needed 2 person beds? Well there is a hacker house which almost does the opposite and guess where they are from? Asia! They are used to 12 people staying in a one room house so it doesn’t bother them to do the same here.
+Remember that I said everyone here needed 2 person beds? Well there is a hacker house which almost does the opposite. Since asians are used to 12 people staying in a one room house, it doesn’t bother them to do the same here.
 All in all, I am sure that you’ll find a place for yourself if you search hard enough.
 
-
+<a id="talkingtoforeigneers"> </a>
 ### Talking To Foreigners
 
 
@@ -56,7 +57,7 @@ So I’m at this meetup talking to people etc. It’s all going well and I saw t
 
 I had a similar thing with an Indian later on.. So people if you are going to another country to network & stuff please make sure you can pronounce the basics of your shit!
 
-
+<a id="accommodation"> </a>
 ### Cleanliness Tap
 
 
@@ -66,13 +67,13 @@ Cleaning your butt after doing your business works differently here. Imagine not
 You can get the toilet paper a little wet and use it. Then dry it with another toilet paper which is better than just using dry toilet paper. 
 So to those who are coming from cultures who value the cleanliness of their butts a little more should prepare themselves for a small but easily overcomeable challenge.
 
-
+<a id="accommodation"> </a>
 ### Unexpected Benefit of Hackerhouses
 
 
 Only online gamers will understand what this is about. Remember the time when a friend is leaving the server, never going to play again? Either he drops all of his items on the floor for everyone to take or just gives them to a good friend. Well in our case Alan was going back to his country for a few months and while leaving he left lots of kitchen supplies. He basically gave us a week worth of food. So thanks Alan for giving us your items. We hope you have a safe trip back home. 
 
-
+<a id="accommodation"> </a>
 ### Process Explanation Trumps Execution
 
 
