@@ -16,7 +16,7 @@ We are 3 brothers aged [22](https://about.me/thellimist), [24](https://about.me/
 
 <a id="accommodation"> </a>
 
-## **Accomodation**
+## Accomodation
 
 
 A family of 5 can live in Turkey for a month with the studio rent in SF!
@@ -50,10 +50,9 @@ All in all, I am sure that you’ll find a place for yourself if you search hard
 
 <a id="talkingtoforeigneers"> </a>
 
-**
 
 ## Talking To Foreigners
-**
+
 
 
 Last year when I visited the US people told me that companies liked outsourcing to countries like Turkey & Ukraine instead of India & China, they said that language was a big barrier but I didn’t actually get how big of a barrier it was until today. 
