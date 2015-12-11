@@ -6,16 +6,17 @@ tagline: Supporting tagline
 
 We are 3 brothers aged [22](https://about.me/thellimist), [24](https://about.me/demirb) and [26](https://about.me/goktugyil) from Turkey/Ankara. We are all software developers & entrepreneurs. Never worked at a job and came here to pursue our startup dream. 
 
-### Table of Contents
+## Table of Contents
 
 - [Accommodation](#accommodation)
 - [Talking To Foreigners](#talkingtoforeigneers)
 - [Cleanliness Tap](#cleanlinesstap)
-- [Unexpected Benefit Of Hacker House](unexpectedbenefitofhackerhouse)
-- [Process Explanation Trumps Execution](processexplanationtrumpsexecution)
+- [Unexpected Benefit Of Hacker House](#unexpectedbenefitofhackerhouse)
+- [Process Explanation Trumps Execution](#processexplanationtrumpsexecution)
 
 <a id="accommodation"> </a>
-### Accomodation
+
+## **Accomodation**
 
 
 A family of 5 can live in Turkey for a month with the studio rent in SF!
@@ -48,7 +49,11 @@ Remember that I said everyone here needed 2 person beds? Well there is a hacker 
 All in all, I am sure that you’ll find a place for yourself if you search hard enough.
 
 <a id="talkingtoforeigneers"> </a>
-### Talking To Foreigners
+
+**
+
+## Talking To Foreigners
+**
 
 
 Last year when I visited the US people told me that companies liked outsourcing to countries like Turkey & Ukraine instead of India & China, they said that language was a big barrier but I didn’t actually get how big of a barrier it was until today. 
@@ -57,8 +62,9 @@ So I’m at this meetup talking to people etc. It’s all going well and I saw t
 
 I had a similar thing with an Indian later on.. So people if you are going to another country to network & stuff please make sure you can pronounce the basics of your shit!
 
-<a id="accommodation"> </a>
-### Cleanliness Tap
+<a id="cleanlinesstap"> </a>
+
+## Cleanliness Tap
 
 
 In Turkey, toilets have a sprayer in the back when turned on sprays water to the area and then you can dry it with a toilet paper. 
@@ -67,14 +73,16 @@ Cleaning your butt after doing your business works differently here. Imagine not
 You can get the toilet paper a little wet and use it. Then dry it with another toilet paper which is better than just using dry toilet paper. 
 So to those who are coming from cultures who value the cleanliness of their butts a little more should prepare themselves for a small but easily overcomeable challenge.
 
-<a id="accommodation"> </a>
-### Unexpected Benefit of Hackerhouses
+<a id="unexpectedbenefitofhackerhouse"> </a>
+
+## Unexpected Benefit of Hackerhouses
 
 
 Only online gamers will understand what this is about. Remember the time when a friend is leaving the server, never going to play again? Either he drops all of his items on the floor for everyone to take or just gives them to a good friend. Well in our case Alan was going back to his country for a few months and while leaving he left lots of kitchen supplies. He basically gave us a week worth of food. So thanks Alan for giving us your items. We hope you have a safe trip back home. 
 
-<a id="accommodation"> </a>
-### Process Explanation Trumps Execution
+<a id="processexplanationtrumpsexecution"> </a>
+
+## Process Explanation Trumps Execution
 
 
 Airport, bank, mall, car rental etc. every place we went to explained the process before doing anything. People stop doing what they are doing, they explain you all the steps you are going to have to take, one by one, slowly and only after that, they start executing. Even when the clipper card(a card used to pay buss & train fares) machine didn’t work the woman first took time to explain the process instead of just trying to use the machine. 
