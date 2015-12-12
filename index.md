@@ -27,7 +27,7 @@ During our first few weeks here we visited a lot of places and saw that natives 
 
 Anyway back to the subject, there are a few ways to stay in San Francisco for cheap (it is cheap in respect to other ways of living)
 
-1. Hackerhouses: Downtown is usually around $1000-1200per month per person, a little out of the city you can find places for a little less. We are staying at [saddlehousesf](saddlehousesf.com) for $800 per person per month. 
+1. Hackerhouses: Downtown is usually around $1000-1200per month per person, a little out of the city you can find places for a little less. We are staying at [saddlehousesf](http://www.saddlehousesf.com/) for $800 per person per month. 
 
 2. Build your own hackerhouse: There are studios in tenderloin for under 2k and with water/wifi etc included it could go up to 2.3k a month. Put up 2 bunk beds(4 people) and voila, that’s $600 per pers per month. You can decrease the cost more if you are able to find more people and get a bigger house etc..
 
