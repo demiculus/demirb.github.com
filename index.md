@@ -19,9 +19,9 @@ We are 3 brothers aged [22](https://about.me/thellimist), [24](https://about.me/
 ## Accomodation
 
 
-A family of 5 can live in Turkey for a month with the studio rent in SF!
+Rents are explosive here in the Valley. A family of 5 can live a luxary life in Turkey with the studio rent here!
 
-During our first few weeks here we visited a lot of places and saw that natives are always relaxed and need lots of space. No one likes to sleep in a 1 person bed. Everyone sleeps in a two person bed and is assuming 3 people are looking for a total of 6 person bed. What we need is a single room to just throw our stuff and sleep that’s all. But no! Even some of the hacker houses we’ve been to didn’t let 2 people sleep in a 2 person bed. 
+During our first few weeks here we visited a lot of places and saw that natives are always relaxed and need lots of space. No one here likes to sleep in a single sized bed. Since everyone likes to sleep in a double sized bed, they assume 3 people are looking for a total of 6 person bed. What we need is a single room to just throw our stuff and sleep that’s all. But no! Even some of the hacker houses we’ve been to didn’t let 2 people sleep in a queen size bed. 
 
 Anyway back to the subject, there are a few ways to stay in San Francisco for cheap (it is cheap in respect to other ways of living)
 
@@ -66,6 +66,9 @@ I had a similar thing with an Indian later on.. So people if you are going to an
 ## Cleanliness Tap
 
 
+![Cleanliness Tap](https://lh5.googleusercontent.com/-vsVrf3_pDj0/T3ZYCMkKciI/AAAAAAAAAOo/5YHVfGzL_DQ/s400/taharet-muslugu_282664.jpg "Cleanliness Tap")
+
+
 In Turkey, toilets have a sprayer in the back when turned on sprays water to the area and then you can dry it with a toilet paper. 
 
 Cleaning your butt after doing your business works differently here. Imagine not having any toilet paper. That’s how you can imagine us not having any water to clean our butts. Paper towel only works to some degree. What if the poop is a little fluid? What if it is completely fluid, you’d have to use a lot of toilet paper to get it clean and that doesn’t even clean as good as water. So our solution was to arrange a time to shit and then shower. Either it was going to be in the morning or before bedtime. So we did that. And it worked really well. Though there are also other options to get it completely cleaned. 
@@ -84,11 +87,11 @@ Only online gamers will understand what this is about. Remember the time when a 
 ## Process Explanation Trumps Execution
 
 
-Airport, bank, mall, car rental etc. every place we went to explained the process before doing anything. People stop doing what they are doing, they explain you all the steps you are going to have to take, one by one, slowly and only after that, they start executing. Even when the clipper card(a card used to pay buss & train fares) machine didn’t work the woman first took time to explain the process instead of just trying to use the machine. 
+Airport, bank, mall, car rental etc. every place we went to explained the process before doing anything. People stop doing what they are doing, they explain you all the steps you are going to have to take, one by one, slowly and only after that, they start executing. Even when the [clipper card](https://www.clippercard.com/ClipperWeb/index.do)(a card used to pay bus & train fares) machine didn’t work the woman first took time to explain the process instead of just trying to use the machine. 
 
-Back in Turkey no one ever explains anything. They just tell you what to do at the time and you usually have no idea what’s going on and what is gonna happen. The upside is that things gets done in a faster way. Though I think that keeping a balance between process explanation & execution is probably the most healthy thing to do. 
+In most of the countries I've been to, no one ever explains anything. They just tell you what to do at the time and you usually have no idea what’s going on and what is gonna happen. The upside is that things gets done in a faster way. Though I think that keeping a balance between process explanation & execution is probably the healthiest thing to do. 
 
-Now we understand why YC keeps saying “Just do it”. Here people talk more about how and what they are going to do instead of just doing it.
+Now we understand why [YC] (http://www.ycombinator.com/) keeps saying “Just do it”. Here people talk more about how and what they are going to do instead of just doing it.
 
 
 
