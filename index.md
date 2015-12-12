@@ -4,7 +4,7 @@ title: Intro
 tagline: Supporting tagline
 ---
 
-![San Francisco](https://d2fijpsef22722.cloudfront.net/photos/massive/847187872-san-francisco.jpg "San Francisco")
+![San Francisco](http://i.imgur.com/2UTmU9G.png "San Francisco")
 
 We are 3 brothers aged [22](https://about.me/thellimist), [24](https://about.me/demirb) and [26](https://about.me/goktugyil) from Turkey/Ankara. We are all software developers & entrepreneurs. Never worked at a job and came here to pursue our startup dream. 
 
