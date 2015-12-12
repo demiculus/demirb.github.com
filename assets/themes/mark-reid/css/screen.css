@@ -105,10 +105,10 @@ sup { line-height: 1ex; }
 	float: left;
 }*/
 
-.emphnext + p:first-line, p.emphfirst:first-line {
+/*.emphnext + p:first-line, p.emphfirst:first-line {
 	font-variant: small-caps;
 	font-size: larger;
-}
+}*/
 /* @end */
 
 .right { float: right; clear: left; }
