@@ -21,7 +21,7 @@ We are 3 brothers aged [22](https://about.me/thellimist), [24](https://about.me/
 ## Accomodation
 
 
-Rents are explosive here in the Valley. A family of 5 can live a luxary life in Turkey with the studio rent here!
+Rents are explosive here in the Valley. A family of 5 can live a luxury life in Turkey with the studio rent here!
 
 During our first few weeks here we visited a lot of places and saw that natives are always relaxed and need lots of space. No one here likes to sleep in a single sized bed. Since everyone likes to sleep in a double sized bed, they assume 3 people are looking for a total of 6 person bed. What we need is a single room to just throw our stuff and sleep that’s all. But no! Even some of the hacker houses we’ve been to didn’t let 2 people sleep in a queen size bed. 
 
