@@ -93,7 +93,7 @@ Airport, bank, mall, car rental etc. every place we went to explained the proces
 
 In most of the countries I've been to, no one ever explains anything. They just tell you what to do at the time and you usually have no idea what’s going on and what is gonna happen. The upside is that things gets done in a faster way. Though I think that keeping a balance between process explanation & execution is probably the healthiest thing to do. 
 
-Now we understand why [YC] (http://www.ycombinator.com/) keeps saying “Just do it”. Here people talk more about how and what they are going to do instead of just doing it.
+Now we understand why [YC](http://www.ycombinator.com/) keeps saying “Just do it”. Here people talk more about how and what they are going to do instead of just doing it.
 
 
 
